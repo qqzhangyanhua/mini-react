@@ -4,6 +4,9 @@ export function createUnit(element) {
 
         return new TextUnit(element);
     }
+    if (element instanceof Element && element.type === 'string') {
+        return new NativeUnit(element);
+    }
 
 }
 class Unit {
@@ -21,5 +24,10 @@ class TextUnit extends Unit {
     getMarkup(reactId) {
         this._reactId = reactId;
         return `<span data-reactId="${reactId}">${this._element}</span>`
+    }
+}
+class NativeUnit extends Unit {
+    getMarkup(reactId) {
+        this._reactId = reactId;
     }
 }
