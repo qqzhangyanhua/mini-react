@@ -11,28 +11,31 @@ export interface UpdateQueue<State> {
 export const createUpdate = <State>(action: Action<State>): Update<State> => {
 	return { action };
 };
-export const createUpdateQueue = <Action>() => {
+export const createUpdateQueue = <State>() => {
 	return {
 		shared: {
 			pending: null
 		}
-	} as UpdateQueue<Action>;
+	} as UpdateQueue<State>;
 };
 
-export const enqueueUpdate =(  updateQueue: UpdateQueue<any>,update: Update<any>):any => {
-  updateQueue.shared.pending = update
-}
+export const enqueueUpdate = <State>(
+	updateQueue: UpdateQueue<State>,
+	update: Update<State>
+) => {
+	updateQueue.shared.pending = update;
+};
 export const processUpdateQueue = <State>(
 	baseState: State,
-	pendingUpdate: Update<State>
+	pendingUpdate: Update<State> | null
 ) => {
-	const result = { memoizedProps: baseState };
+	const result = { memoizedState: baseState };
 	if (pendingUpdate !== null) {
 		const action = pendingUpdate.action;
 		if (action instanceof Function) {
-			result.memoizedProps = action(baseState);
+			result.memoizedState = action(baseState);
 		} else {
-			result.memoizedProps = action;
+			result.memoizedState = action;
 		}
 	}
 	return result;

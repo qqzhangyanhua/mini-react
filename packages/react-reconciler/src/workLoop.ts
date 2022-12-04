@@ -7,14 +7,13 @@ let workInProgress: FiberNode | null;
 
 function prepareFreshStack(root: FiberRootNode, expirationTime: number) {
 	// This is the root of the stack
-	workInProgress =createWorkInProgress(root.current, null);
+	workInProgress = createWorkInProgress(root.current, null);
 }
 export function scheduleUpdateOnFiber(fiber: FiberNode) {
 	// TODO
 	// 调度功能
-	const root = markUpdateFormFiberToRoot(fiber)
-	renderRoot(root)
-	
+	const root = markUpdateFormFiberToRoot(fiber);
+	renderRoot(root);
 }
 function markUpdateFormFiberToRoot(fiber: FiberNode) {
 	let node = fiber;
@@ -24,7 +23,7 @@ function markUpdateFormFiberToRoot(fiber: FiberNode) {
 		parent = node.return;
 	}
 	if (node.tag === HostRoot) {
-		return node.stateNode
+		return node.stateNode;
 	}
 	return null;
 }
@@ -34,7 +33,9 @@ function renderRoot(root: FiberRootNode) {
 		try {
 			workLoop();
 		} catch (e) {
-			console.log('warning', e);
+			if (__DEV__) {
+				console.log('warning', e);
+			}
 			workInProgress = null;
 		}
 	} while (true);

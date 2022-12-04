@@ -4,6 +4,7 @@ import ts from 'rollup-plugin-typescript2';
 import cjs from '@rollup/plugin-commonjs';
 const packPath = path.resolve(__dirname, '../../packages');
 const distPath = path.resolve(__dirname, '../../dist/node_modules');
+import replace from '@rollup/plugin-replace';
 export const resolvePackage = (packName, isDist) => {
 	if (isDist) {
 		return `${distPath}/${packName}`;
@@ -16,6 +17,11 @@ export const getPackageJson = (packName) => {
 	return JSON.parse(str);
 };
 
-export const getBasePlugin = ({ typescript = {} } = {}) => {
-	return [cjs(), ts(typescript)];
+export const getBasePlugin = ({
+	alias = {
+		__DEV__: true
+	},
+	typescript = {}
+} = {}) => {
+	return [replace(alias), cjs(), ts(typescript)];
 };
