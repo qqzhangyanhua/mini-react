@@ -28,6 +28,8 @@ const jsx = (
 //可以在构造函数中给state赋值
 //定义状态对象
 //属性对象,父组件给的不能改变
+//等时间函数处理完成之后,再批量更新,一次更新并渲染
+//jsx时间处理函数是react控制的,只要归react控制就是批量更新
 class Welcome2 extends React.Component {
 	constructor(props) {
 		super(props);
@@ -36,6 +38,7 @@ class Welcome2 extends React.Component {
 		};
 	}
 	handelClick = () => {
+		this.setState({ name: this.state.name + 1 });
 		this.setState({ name: this.state.name + 1 });
 	};
 	render() {
