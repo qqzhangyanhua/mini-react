@@ -2,7 +2,14 @@ import { createDom } from './react-dom';
 
 export let updateQueue = {
 	isBatchingUpdate: false, //是否批量更新
-	updaters: new Set() //存放所有的updater
+	updaters: new Set(), //存放所有的updater
+	batcherUpdate() {
+		for (let updater of this.updaters) {
+			updater.updateClassComponent();
+		}
+		this.isBatchingUpdate = false;
+		this.updaters.clear();
+	}
 };
 class Updater {
 	constructor(classInstance) {
@@ -12,7 +19,7 @@ class Updater {
 	}
 	addState(partialState, cb) {
 		this.pendingStates.push(partialState); //更新放进去
-		this.callbacks.push(cb); //更新状态后的回调
+		if (typeof cb === 'function') this.callbacks.push(cb); //更新状态后的回调
 		if (updateQueue.isBatchingUpdate) {
 			//如果是批量更新,先缓存起来
 			updateQueue.updaters.add(this);
@@ -26,8 +33,8 @@ class Updater {
 			//如果有等待生效的状态
 			classInstance.state = this.getState();
 			classInstance.forceUpdate();
-		} else {
 			callbacks.forEach((cb) => cb());
+			callbacks.length = 0; //清空回调
 		}
 	}
 	getState() {
@@ -60,6 +67,11 @@ class Component {
 		// };
 		// let newVdom = this.render();
 		// updateClassComponent(this, newVdom);
+	}
+	forceUpdate() {
+		let newVdom = this.render();
+		let oldDom = this.dom;
+		updateClassComponent(this, newVdom, oldDom);
 	}
 	render() {
 		throw new Error('子类必须实现render方法');

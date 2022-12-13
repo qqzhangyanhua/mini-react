@@ -1,3 +1,4 @@
+import { addEvent } from './event';
 /**
  *
  *1,把虚拟dom变成真实dom
@@ -67,7 +68,8 @@ function updateProps(dom, newProps) {
 			}
 		} else if (key.startsWith('on')) {
 			//如果是事件属性，就添加事件
-			dom[key.toLocaleLowerCase()] = newProps[key];
+			// dom[key.toLocaleLowerCase()] = newProps[key];
+			addEvent(dom, key.toLocaleLowerCase(), newProps[key]);
 		} else {
 			dom[key] = newProps[key];
 		}
