@@ -4,6 +4,7 @@ export const PerformedWork = 0b000010;
 export const Placement = 0b0000010;
 export const Update = 0b0000100;
 export const ChildDeletion = 0b0001000;
+export const MutationMask = Placement | Update | ChildDeletion;
 // export const PlacementAndUpdate = 0b001100;
 // export const Deletion = 0b010000;
 // export const ContentReset = 0b100000
