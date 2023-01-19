@@ -17,7 +17,13 @@ export function addEvent(dom, eventType, listener) {
 		document[eventType] = dispatchEvent; //document.onclick = dispatchEvent
 	}
 }
-let syntheticEvent = {};
+let syntheticEvent = {
+	stopping: false,
+	stopPropagation() {
+		this.stopping = true;
+		console.log('阻止冒泡');
+	}
+};
 function dispatchEvent(event) {
 	let { target, type } = event; //事件源，事件类型
 	let eventType = 'on' + type;
@@ -28,6 +34,9 @@ function dispatchEvent(event) {
 		let { store } = target;
 		let listener = store && store[eventType];
 		listener && listener.call(target, syntheticEvent);
+		if (syntheticEvent.stopping) {
+			break;
+		}
 		target = target.parentNode;
 	}
 

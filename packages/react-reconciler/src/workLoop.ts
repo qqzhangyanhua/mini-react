@@ -8,6 +8,8 @@ let workInProgress: FiberNode | null;
 
 function prepareFreshStack(root: FiberRootNode, expirationTime: number) {
 	// This is the root of the stack
+	console.log(expirationTime);
+
 	workInProgress = createWorkInProgress(root.current, null);
 }
 export function scheduleUpdateOnFiber(fiber: FiberNode) {

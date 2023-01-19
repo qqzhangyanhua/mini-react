@@ -10,6 +10,8 @@ function childReconciler(shouldTrackEffects: boolean) {
 		currentFiber: FiberNode | null,
 		element: ReactElementType
 	) {
+		console.log('reconcileSingleElement', currentFiber);
+
 		//根据element 创建fiber 并返回
 		const fiber = createFiberFormElement(element);
 		fiber.return = returnFiber;
@@ -20,6 +22,8 @@ function childReconciler(shouldTrackEffects: boolean) {
 		currentFiber: FiberNode | null,
 		content: string | number
 	) {
+		console.log('currentFiber', currentFiber);
+
 		const fiber = new FiberNode(HostText, content, null);
 		fiber.return = returnFiber;
 		return fiber;

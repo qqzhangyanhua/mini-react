@@ -41,6 +41,8 @@ function updateHostComponent(wip: FiberNode) {
 	return wip.child;
 }
 function updateHostText(wip: FiberNode) {
+	console.log('updateHostText', wip);
+
 	return null;
 }
 

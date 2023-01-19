@@ -1,0 +1,372 @@
+[
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/common/var.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/common/var.scss",
+    "size": 36573
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/healthPromise.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/healthPromise.scss",
+    "size": 5130
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/index.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/index.scss",
+    "size": 94
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/config.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/mixins/config.scss",
+    "size": 91
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/function.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/mixins/function.scss",
+    "size": 907
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/mixins.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/mixins/mixins.scss",
+    "size": 3353
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/utils.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/mixins/utils.scss",
+    "size": 626
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorEntry.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/pt-visitorRecord/visitorEntry.scss",
+    "size": 2111
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorRecord.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/pt-visitorRecord/visitorRecord.scss",
+    "size": 2499
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorRecordList.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/pt-visitorRecord/visitorRecordList.scss",
+    "size": 1656
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/size.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/size.scss",
+    "size": 158
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/unifyAuth.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/unifyAuth.scss",
+    "size": 1733
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/xh.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/fx/src/styles/xh.scss",
+    "size": 3228
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/common/var.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/common/var.scss",
+    "size": 36573
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/healthPromise.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/healthPromise.scss",
+    "size": 5130
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/index.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/index.scss",
+    "size": 94
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/config.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/mixins/config.scss",
+    "size": 91
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/function.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/mixins/function.scss",
+    "size": 907
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/mixins.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/mixins/mixins.scss",
+    "size": 3353
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/utils.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/mixins/utils.scss",
+    "size": 626
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorEntry.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/pt-visitorRecord/visitorEntry.scss",
+    "size": 2111
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorRecord.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/pt-visitorRecord/visitorRecord.scss",
+    "size": 2499
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorRecordList.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/pt-visitorRecord/visitorRecordList.scss",
+    "size": 1656
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/size.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/size.scss",
+    "size": 158
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/unifyAuth.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/unifyAuth.scss",
+    "size": 1733
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/xh.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/mh/src/styles/xh.scss",
+    "size": 3228
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/common/var.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/pt/src/styles/common/var.scss",
+    "size": 36573
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/index.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/pt/src/styles/index.scss",
+    "size": 94
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/config.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/pt/src/styles/mixins/config.scss",
+    "size": 91
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/function.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/pt/src/styles/mixins/function.scss",
+    "size": 907
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/mixins.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/pt/src/styles/mixins/mixins.scss",
+    "size": 3353
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/utils.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/pt/src/styles/mixins/utils.scss",
+    "size": 626
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorEntry.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/pt/src/styles/pt-visitorRecord/visitorEntry.scss",
+    "size": 2111
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorRecordList.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/pt/src/styles/pt-visitorRecord/visitorRecordList.scss",
+    "size": 1656
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/size.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/pt/src/styles/size.scss",
+    "size": 158
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/common/var.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sh/src/styles/common/var.scss",
+    "size": 36573
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/healthPromise.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sh/src/styles/healthPromise.scss",
+    "size": 5130
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/index.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sh/src/styles/index.scss",
+    "size": 94
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/config.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sh/src/styles/mixins/config.scss",
+    "size": 91
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/function.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sh/src/styles/mixins/function.scss",
+    "size": 907
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/mixins.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sh/src/styles/mixins/mixins.scss",
+    "size": 3353
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/utils.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sh/src/styles/mixins/utils.scss",
+    "size": 626
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorEntry.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sh/src/styles/pt-visitorRecord/visitorEntry.scss",
+    "size": 2111
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorRecord.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sh/src/styles/pt-visitorRecord/visitorRecord.scss",
+    "size": 2499
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorRecordList.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sh/src/styles/pt-visitorRecord/visitorRecordList.scss",
+    "size": 1656
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/size.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sh/src/styles/size.scss",
+    "size": 158
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/xh.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sh/src/styles/xh.scss",
+    "size": 3228
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/common/var.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sj/src/styles/common/var.scss",
+    "size": 36573
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/index.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sj/src/styles/index.scss",
+    "size": 94
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/config.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sj/src/styles/mixins/config.scss",
+    "size": 91
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/function.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sj/src/styles/mixins/function.scss",
+    "size": 907
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/mixins.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sj/src/styles/mixins/mixins.scss",
+    "size": 3353
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/utils.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sj/src/styles/mixins/utils.scss",
+    "size": 626
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/size.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/sj/src/styles/size.scss",
+    "size": 158
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/common/var.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/common/var.scss",
+    "size": 36573
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/healthPromise.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/healthPromise.scss",
+    "size": 5130
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/index.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/index.scss",
+    "size": 94
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/config.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/mixins/config.scss",
+    "size": 91
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/function.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/mixins/function.scss",
+    "size": 907
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/mixins.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/mixins/mixins.scss",
+    "size": 3353
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/utils.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/mixins/utils.scss",
+    "size": 626
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorEntry.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/pt-visitorRecord/visitorEntry.scss",
+    "size": 2111
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorRecord.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/pt-visitorRecord/visitorRecord.scss",
+    "size": 2499
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/pt-visitorRecord/visitorRecordList.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/pt-visitorRecord/visitorRecordList.scss",
+    "size": 1656
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/size.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/size.scss",
+    "size": 158
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/unifyAuth.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/unifyAuth.scss",
+    "size": 1733
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/xh.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/xh/src/styles/xh.scss",
+    "size": 3228
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/common/var.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/yp/src/styles/common/var.scss",
+    "size": 36573
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/index.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/yp/src/styles/index.scss",
+    "size": 94
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/config.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/yp/src/styles/mixins/config.scss",
+    "size": 91
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/function.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/yp/src/styles/mixins/function.scss",
+    "size": 907
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/mixins.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/yp/src/styles/mixins/mixins.scss",
+    "size": 3353
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/mixins/utils.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/yp/src/styles/mixins/utils.scss",
+    "size": 626
+  },
+  {
+    "similar": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/bs/src/styles/size.scss",
+    "fullFilePath": "/Users/zhangyanhua/Desktop/workcode/project_front_location_ss/apps/yp/src/styles/size.scss",
+    "size": 158
+  }
+]
