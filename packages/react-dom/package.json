@@ -9,7 +9,7 @@
 		"react-reconciler": "workspace:*"
 	},
 	"peerDependencies": {
-		"react": "workspace:*"
+		"big-react": "workspace:*"
 	},
 	"keywords": [],
 	"author": "",

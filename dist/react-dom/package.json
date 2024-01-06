@@ -1,6 +1,6 @@
 {
-  "name": "mini-react-dom",
-  "version": "1.0.1",
+  "name": "react-dom",
+  "version": "1.0.0",
   "description": "",
   "peerDependencies": {
     "react": "4.9.3"
